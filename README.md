@@ -6,12 +6,12 @@
 
 ![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
 
-- ₿ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).😎
-- 🌱 Built several significant projects based on Bitcoin, Solana network ❤
+- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
+- 🌱 Built several significant projects based on Bitcoin, Solana network 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Rune protocol in bitcoin.
-- ⚡ Motto: 1.01 ^ 365 = 37.783. 0.99 ^ 365 = 0.026 🎓
+- 🎓 Motto: 1.01 ^ 365 = 37.783. 0.99 ^ 365 = 0.026 🎓
 
 ---
 
