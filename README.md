@@ -33,7 +33,6 @@
 ![Cardano](https://img.shields.io/badge/Cardano-273747?style=flat-square&logo=cardano&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Thorchain (RUNE)](https://img.shields.io/badge/Thorchain-RUNE-190D4A?style=flat-square&logo=thorchain&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
@@ -46,30 +45,30 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
-![Thorchain (RUNE)](https://img.shields.io/badge/Thorchain-RUNE-190D4A?style=flat-square&logo=thorchain&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milojeBtc&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=nightowl" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milojeBtc&theme=nightowl" alt="milojeBtc" />
 </p>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milojeBtc&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/milojeBtc"><img alt="Check out milojeBtc's profile on stardev.io" src="https://stardev.io/developers/milojeBtc/badge/languages/locality.svg" /></a>
 
 ---
 
@@ -78,8 +77,8 @@
 
 
 <a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milojeBtc&repo=developer-portfolio&theme=nightowl" />
 </a>
 <a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milojeBtc&repo=Express-Postgres-blog&theme=nightowl" />
 </a>
