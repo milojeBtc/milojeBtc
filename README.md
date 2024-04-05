@@ -1,10 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Miloje+Nikolic.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 ![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
+
 
 - ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
 - 🌱 Built several significant projects based on Bitcoin, Solana network 
@@ -47,22 +42,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
----
-
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milojeBtc&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milojeBtc&theme=nightowl" alt="milojeBtc" />
-</p>
-
----
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milojeBtc&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
-
----
