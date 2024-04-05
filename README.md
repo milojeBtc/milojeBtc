@@ -65,20 +65,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milojeBtc&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/milojeBtc"><img alt="Check out milojeBtc's profile on stardev.io" src="https://stardev.io/developers/milojeBtc/badge/languages/locality.svg" /></a>
-
----
-
-
-### Top Repositories
-
-
-<a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milojeBtc&repo=developer-portfolio&theme=nightowl" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milojeBtc&repo=Express-Postgres-blog&theme=nightowl" />
-</a>
