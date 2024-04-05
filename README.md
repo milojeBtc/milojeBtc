@@ -11,7 +11,8 @@
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Rune protocol in bitcoin.
-- 🎓 Motto: 1.01 ^ 365 = 37.783. 0.99 ^ 365 = 0.026 🎓
+- 🎓 Motto: 1.01 ^ 365 = 37.783.
+      0.99 ^ 365 = 0.026 🎓
 
 ---
 
