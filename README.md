@@ -50,3 +50,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milojeBtc&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milojeBtc&theme=nightowl" alt="milojeBtc" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milojeBtc&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+
+---
