@@ -8,7 +8,7 @@
 - 🌱 Built several significant projects based on Bitcoin, Solana network 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Rune protocol in bitcoin.
+- 🥅 2024 Goals: Building Rune markerplace
       
 ---
 ### Languages and Tools:
