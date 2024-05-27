@@ -10,7 +10,8 @@
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Building Rune markerplace
 
-  This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
+- 🏆 This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
+- 💼 Now building Rune swap, Multisig wallet, Src20, Brc20, Cbrc20 Marketplace platform.
       
 ---
 ### Languages and Tools:
