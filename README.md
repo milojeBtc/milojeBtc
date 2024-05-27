@@ -9,6 +9,8 @@
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Building Rune markerplace
+
+  This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
       
 ---
 ### Languages and Tools:
