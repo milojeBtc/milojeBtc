@@ -8,10 +8,10 @@
 - 🌱 Built several significant projects based on Bitcoin, Solana network 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Building Rune markerplace
+- 🥅 2024 Goals: Building Non-Custodial Staking and Cross-chain Liquidity
 
 - 🏆 This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
-- 💼 Now building Rune swap, Multisig wallet, Src20, Brc20, Cbrc20 Marketplace platform.
+- 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking.
       
 ---
 ### Languages and Tools:
