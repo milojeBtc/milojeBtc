@@ -11,7 +11,7 @@
 - 🥅 2024 Goals: Building Non-Custodial Staking and Cross-chain Liquidity on Bitcoin and Building serveral useful bots and pump.fun on Solana
 
 - 🏆 This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
-- 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking.
+- 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking on bitcoin and Pump.fun on Solana.
       
 ---
 ### Languages and Tools:
