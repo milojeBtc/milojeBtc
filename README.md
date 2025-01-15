@@ -8,7 +8,7 @@
 - 🌱 Built several significant projects based on Bitcoin, Solana network 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Building Non-Custodial Staking and Cross-chain Liquidity on Bitcoin and Building serveral useful bots and pump.fun on Solana
+- 🥅 2025 Goals: Building Non-Custodial Staking and Cross-chain Liquidity on Bitcoin and Building serveral useful bots and pump.fun on Solana
 
 - 🏆 This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
 - 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking on bitcoin and Pump.fun on Solana.
