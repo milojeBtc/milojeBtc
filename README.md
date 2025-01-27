@@ -4,14 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
 
 
-- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc).
-- 🌱 Built several significant projects based on Bitcoin, Solana network 
+- ✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, etc) and AI Agent
+- 🌱 Built several significant projects based on Bitcoin, Solana network with Ai
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Building Non-Custodial Staking and Cross-chain Liquidity on Bitcoin and Building serveral useful bots and pump.fun on Solana
+- 🥅 2025 Goals: Building useful AI Agent
 
 - 🏆 This is my past project: <a href="https://github.com/milojeBtc/Project-Overview">here</a>
-- 💼 Now building Multisig wallet, Cross-chain Liquidity and Non-Custodinal Staking on bitcoin and Pump.fun on Solana.
+- 💼 Now building Multisig wallet and Ai Agent.
       
 ---
 ### Languages and Tools:
